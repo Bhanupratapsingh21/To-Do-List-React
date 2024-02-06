@@ -4,7 +4,6 @@ This is a simple to-do list web application built using React.js. It allows user
 
 ## Features
 - Adding tasks to the to-do list
-- Marking tasks as completed
 - Deleting tasks from the list
 - Reusable components for efficient rendering
 - Props passing for dynamic data manipulation
